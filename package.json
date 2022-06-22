@@ -1,7 +1,7 @@
 {
-  "name": "css-advanced-2-flexbox",
+  "name": "css-advanced-3-grid",
   "version": "1.0.0",
-  "description": "Langing page trillo app",
+  "description": "Langing page nexter",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
